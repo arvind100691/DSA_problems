@@ -1,0 +1,19 @@
+# Ignore all .exe files
+*.exe
+
+# Ignore build output directories
+**/debug/
+**/release/
+**/build/
+**/out/
+
+# Visual Studio/VSCode specific files
+*.vs/
+*.vscode/
+*.suo
+*.user
+*.sln.docstates
+
+# Compiled Object files
+*.o
+*.obj
